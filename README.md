@@ -8,11 +8,14 @@ An automated lighting system that adjusts brightness based on room occupancy and
 - **Energy Saving:** Lights turn off after 5 minutes of no motion.
 - **Manual Override:** A master switch allows users to disable the system.
 
-## Circuit Diagram
+## Design
 ![Circuit Diagram](https://github.com/TayyabAnees/Automated-Lighting-System/blob/master/images/SchematicView.png)
 
 ## Schematic View
-![Schematic View]([./images/schematic_view.png](https://github.com/TayyabAnees/Automated-Lighting-System/blob/master/images/circuit.png))
+![Schematic View](https://github.com/TayyabAnees/Automated-Lighting-System/blob/master/images/deisgn.png))
+
+## Demo
+
 
 ## Component List
 
