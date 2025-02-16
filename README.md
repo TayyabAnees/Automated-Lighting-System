@@ -7,11 +7,11 @@ An automated lighting system that adjusts brightness based on room occupancy and
 - **Ambient Light Adjustment:** LED brightness adjusts dynamically based on ambient light levels.
 - **Energy Saving:** Lights turn off after 5 minutes of no motion.
 - **Manual Override:** A master switch allows users to disable the system.
-
-## Design
+- 
+## Schematic View
 ![Circuit Diagram](https://github.com/TayyabAnees/Automated-Lighting-System/blob/master/images/SchematicView.png)
 
-## Schematic View
+## Design
 ![Schematic View](https://github.com/TayyabAnees/Automated-Lighting-System/blob/master/images/deisgn.png))
 
 ## Demo
