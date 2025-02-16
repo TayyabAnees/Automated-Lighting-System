@@ -38,7 +38,7 @@ An automated lighting system that adjusts brightness based on room occupancy and
 6. The manual override switch allows users to disable the system.
 
 ## Code
-The Arduino code for this system can be found in the `automated_lighting.ino` file in this repository.
+The Arduino code for this system can be found in the [`automated_lighting_system.ino`](automated_lighting_system.ino) file in this repository.
 
 ## License
 This project is open-source and available under the MIT License.
