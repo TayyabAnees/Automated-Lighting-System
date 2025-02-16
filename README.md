@@ -9,10 +9,10 @@ An automated lighting system that adjusts brightness based on room occupancy and
 - **Manual Override:** A master switch allows users to disable the system.
 
 ## Circuit Diagram
-![Circuit Diagram](./images/circuit_diagram.png)
+![Circuit Diagram](https://github.com/TayyabAnees/Automated-Lighting-System/blob/master/images/SchematicView.png)
 
 ## Schematic View
-![Schematic View](./images/schematic_view.png)
+![Schematic View]([./images/schematic_view.png](https://github.com/TayyabAnees/Automated-Lighting-System/blob/master/images/circuit.png))
 
 ## Component List
 
